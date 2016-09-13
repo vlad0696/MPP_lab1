@@ -1,1 +1,6 @@
 C:\Users\Vlad\Documents\GitHub\MPP_lab1\MPP_lab1\MPP_lab1\bin\Debug\MPP_lab1.exe.config
+C:\Users\Vlad\Documents\GitHub\MPP_lab1\MPP_lab1\MPP_lab1\bin\Debug\MPP_lab1.exe
+C:\Users\Vlad\Documents\GitHub\MPP_lab1\MPP_lab1\MPP_lab1\bin\Debug\MPP_lab1.pdb
+C:\Users\Vlad\Documents\GitHub\MPP_lab1\MPP_lab1\MPP_lab1\obj\Debug\MPP_lab1.csprojResolveAssemblyReference.cache
+C:\Users\Vlad\Documents\GitHub\MPP_lab1\MPP_lab1\MPP_lab1\obj\Debug\MPP_lab1.exe
+C:\Users\Vlad\Documents\GitHub\MPP_lab1\MPP_lab1\MPP_lab1\obj\Debug\MPP_lab1.pdb
