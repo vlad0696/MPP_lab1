@@ -10,7 +10,7 @@ namespace MPP_lab1
     public class QuickSort
     {
         private int ArrayLength;
-        private MyComparer comparator;
+        private MyComparer comparator= new MyComparer();
         
         
         public int[] Sort(int[] SortArray)
@@ -23,7 +23,7 @@ namespace MPP_lab1
             int marker = start;
             for (int i = start; i <= end; i++)
             {
-                if (array[i] <= array[end])
+                if (!(comparator.Compare( array[i] , array[end])==1))
                 {
                     int temp = array[marker]; 
                     array[marker] = array[i];
@@ -36,7 +36,7 @@ namespace MPP_lab1
 
         private void Quicksort(int[] array, int start, int end)
         {
-            if (start >= end)
+            if (!(comparator.Compare(start, end)==-1))
             {
                 return;
             }
